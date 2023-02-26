@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Tech Campus-White?style= for-the-badge&logo=Kakao&logoColor=FFCD00"/></a>
+<div style="text-align : center;">
+<img src="https://capsule-render.vercel.app/api?type=Soft&height=300&section=header&text=@Super%20Sun&fontSize=90&theme=merko" />
+</div>
+<h3 align="center">📚 My Keyword 📚 </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Tech Campus-black?style=flat&logo=Kakao&logoColor=FFCD00"/></a>
+<a href="https://velog.io/@supersun" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=Velog&logoColor=20C997"/></a>
+<img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=FFCD00"/></a>
+<img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=FFCD00"/></a>
+<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></a>
+</p>
+
