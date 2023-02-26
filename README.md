@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=FFCD00"/></a>
 <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></a>
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsgo&show_icons=true&theme=radical)
 
