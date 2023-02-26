@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </div>
 <h3 align="center">📚 My Keyword 📚 </h3>
 <p align="center">
+<a href="https://velog.io/@supersun" target="_blank"><img src="https://img.shields.io/badge/supersun.log-white?style=flat&logo=Velog&logoColor=20C997"/></a><br>
 <img src="https://img.shields.io/badge/Tech Campus-black?style=flat&logo=Kakao&logoColor=FFCD00"/></a>
-<a href="https://velog.io/@supersun" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=Velog&logoColor=20C997"/></a>
 <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=FFCD00"/></a>
 <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=FFCD00"/></a>
 <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></a>
