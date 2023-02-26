@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=FFCD00"/></a>
 <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></a>
 </p>
-[![Super Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsgo)](https://github.com/rnjsgo/github-readme-stats)
+
+<div style="margin-top: 20px; margin-bottom: 20px;">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rnjsgo&amp;show_icons=true&amp;theme=radical" alt="Super Sun&#39;s GitHub stats"></p>
+</div>
