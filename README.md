@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
 🌱 <a href="https://velog.io/@supersun"><img src="https://img.shields.io/badge/supersun.log-white?style=flat&logo=Velog&logoColor=20C997"/></a> 🌱<br>
   <br>
-<img src="https://img.shields.io/badge/Tech Campus-black?style=flat&logo=Kakao&logoColor=FFCD00"/></a>
+<a href="https://www.kakaotechcampus.com"><img src="https://img.shields.io/badge/Tech Campus-black?style=flat&logo=Kakao&logoColor=FFCD00"/></a>
 <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=FFCD00"/></a>
 <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=FFCD00"/></a>
 <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></a>
