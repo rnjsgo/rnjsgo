@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="text-align : center;">
-<img src="https://capsule-render.vercel.app/api?type=Soft&height=300&section=header&text=@Super%20Sun&fontSize=90&theme=merko&desc=Greatest%20Of%20All%20Time&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&height=300&section=header&text=@Super%20Sun&fontSize=90&theme=merko&desc=Growth%20Of%20All%20Time&descAlignY=70" />
 </div>
 <h3 align="center">📚 My Keyword 📚 </h3>
 <p align="center">
